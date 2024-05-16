@@ -7,7 +7,7 @@ Repositorio de prpojetos do curso em Python da D.I.O e controle de versões
 
 ## 📚 DOCUMENTAÇÃO
 
-    -[Documentação Git](https://git-scm.com/)
-    -[Documentação GitHub](https://github.com/)
+ - [Documentação Git](https://git-scm.com/)
+ - [Documentação GitHub](https://github.com/)
 
 
